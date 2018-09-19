@@ -37,7 +37,6 @@ Thumbs.db
 
 #IDE Generated files #
 ######################
-.idea/*.xml
-.idea/*.iml
+**/.idea
 
 
